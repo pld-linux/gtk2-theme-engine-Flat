@@ -33,7 +33,7 @@ i metalowego motywu; kolory i pixmapy t³a s± w pe³ni konfigurowalne.
 %build
 rm -f missing
 %{__libtoolize}
-aclocal
+%{__aclocal}
 %{__autoconf}
 %{__automake}
 %configure
