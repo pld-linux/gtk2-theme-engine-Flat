@@ -48,7 +48,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-%doc AUTHORS README 
+%doc AUTHORS README
 %attr(755,root,root) %{_libdir}/gtk-2.0/2.2.*/engines/*.so
 %{_libdir}/gtk-2.0/2.2.*/engines/*.la
 %{_datadir}/themes/Flat
