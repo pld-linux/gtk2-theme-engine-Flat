@@ -2,9 +2,9 @@ Summary:	Flat theme without distracting stuff
 Summary(pl):	P³aski motyw bez zbêdnych drobiazgów
 Name:		gtk2-theme-engine-Flat
 Version:	2.0
-Release:	1
+Release:	2
 License:	GPL
-Group:		Themes/Gtk
+Group:		Themes/GTK+
 Source0:	http://ftp.gnome.org/pub/GNOME/teams/art.gnome.org/themes/gtk2/GTK2-Flat-Engine.tar.gz
 # Source0-md5:	a4d6866a518f05087bd7aef43a55432a
 URL:		http://art.gnome.org/
