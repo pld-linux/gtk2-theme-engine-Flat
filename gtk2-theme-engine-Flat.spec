@@ -6,6 +6,7 @@ Release:	0.1
 License:	GPL
 Group:		Themes/Gtk
 Source0:	http://ftp.gnome.org/pub/GNOME/teams/art.gnome.org/themes/gtk2/GTK2-Flat-Engine.tar.gz
+# Source0-md5:	a4d6866a518f05087bd7aef43a55432a
 URL:		http://art.gnome.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
