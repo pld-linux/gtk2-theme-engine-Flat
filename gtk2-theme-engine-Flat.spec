@@ -13,7 +13,6 @@ BuildRequires:	gtk+2-devel
 BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-
 %description
 This theme engine gives gtk+ a flattened appearance with elements
 taken from the MacOS and Metal uis. Modified from the default and
@@ -49,5 +48,6 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc AUTHORS README 
-%attr(755,root,root) %{_libdir}/gtk-2.0/2.0.*/engines/*.so
+%attr(755,root,root) %{_libdir}/gtk-2.0/2.2.*/engines/*.so
+%{_libdir}/gtk-2.0/2.2.*/engines/*.la
 %{_datadir}/themes/Flat
