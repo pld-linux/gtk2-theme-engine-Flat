@@ -13,8 +13,6 @@ BuildRequires:	gtk+2-devel
 BuildRequires:	libtool
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_prefix		/usr/X11R6
-%define		_mandir		/usr/X11R6/man
 
 %description
 This theme engine gives gtk+ a flattened appearance with elements
