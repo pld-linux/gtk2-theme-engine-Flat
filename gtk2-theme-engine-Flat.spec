@@ -1,5 +1,5 @@
 Summary:	Flat theme without distracting stuff
-Summary(pl):	P³aski motyw bez zbêdnych drobiazgów
+Summary(pl.UTF-8):   PÅ‚aski motyw bez zbÄ™dnych drobiazgÃ³w
 Name:		gtk2-theme-engine-Flat
 Version:	2.0
 Release:	2
@@ -21,10 +21,10 @@ taken from the MacOS and Metal uis. Modified from the default and
 metal theme engines; the colors and background pixmaps are fully
 customizable.
 
-%description -l pl
-Ten motyw daje bibliotece gtk+2 p³aski wygl±d z elementami wziêtymi z
-interfejsów MacOS i Metal. Jest zmodyfikowany w stosunku do domy¶lnego
-i metalowego motywu; kolory i pixmapy t³a s± w pe³ni konfigurowalne.
+%description -l pl.UTF-8
+Ten motyw daje bibliotece gtk+2 pÅ‚aski wyglÄ…d z elementami wziÄ™tymi z
+interfejsÃ³w MacOS i Metal. Jest zmodyfikowany w stosunku do domyÅ›lnego
+i metalowego motywu; kolory i pixmapy tÅ‚a sÄ… w peÅ‚ni konfigurowalne.
 
 %prep
 %setup  -q -n gtk-flat-theme-%{version}
