@@ -1,5 +1,5 @@
 Summary:	Flat theme without distracting stuff
-Summary(pl.UTF-8):   Płaski motyw bez zbędnych drobiazgów
+Summary(pl.UTF-8):	Płaski motyw bez zbędnych drobiazgów
 Name:		gtk2-theme-engine-Flat
 Version:	2.0
 Release:	2
